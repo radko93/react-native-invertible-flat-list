@@ -29,8 +29,4 @@
     "@types/react": "^15.0.25",
     "@types/react-native": "^0.44.5"
   },
-  "peerDependencies": {
-    "react": "16.0.0-alpha.6",
-    "react-native": "^0.44.0"
-  }
 }
